@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,600italic,600,400italic,300italic,300);
+
+body {
+	font-family: 'Open Sans'
+}
+.Msg-page{
+   margin: 155px 50px 75px 520px;
+}
